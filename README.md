@@ -1,5 +1,7 @@
 # XTX: eXploit - Then - eXplore
 
+**Project page:** https://sites.google.com/princeton.edu/xtx
+
 ## Requirements
 First clone this repo using `git clone https://github.com/princeton-nlp/XTX.git`
 
